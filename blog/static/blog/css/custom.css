@@ -368,7 +368,7 @@ img {
     left: -17px;
     top: 3px;
     font-size: 16px;
-    color: #000;
+    color: #66CDAA;
 }
 
 .widget-archives ul {
@@ -391,7 +391,7 @@ img {
     left: -25px;
     top: 1px;
     font-size: 16px;
-    color: #000;
+    color: #66CDAA;
 }
 
 .widget-category ul {
@@ -414,7 +414,7 @@ img {
     left: -25px;
     top: 1px;
     font-size: 18px;
-    color: #000;
+    color: #66CDAA;
 }
 
 .widget-tag-cloud ul {
@@ -430,7 +430,7 @@ img {
     margin-right: 10px;
     margin-bottom: 10px;
     padding: 3px 8px;
-    border: 1px solid #ddd;
+    border: 1px solid #66CDAA;
 }
 
 .widget-content ul ul {
